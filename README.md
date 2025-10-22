@@ -54,7 +54,7 @@ cd RPi-EPaper
 Transfer project files to Raspberry Pi:
 
 ```bash
-scp -r ./RPi-EPaper pi@192.168.8.39:~
+scp -r ./RPi-EPaper <username>@<remote_address>:~
 ```
 
 ### On Raspberry Pi (Target Device)
