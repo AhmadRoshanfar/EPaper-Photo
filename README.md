@@ -1,8 +1,13 @@
 # RPi E-Paper Display
 
 <p align="center">
-  <img src="screenshots/01.png" width="45%" height="600"/>
-  <img src="screenshots/02.png" width="45%" height="600"/>
+  <img src="Images/01.png" width="45%" height="600"/>
+  <img src="Images/02.png" width="45%" height="600"/>
+</p>
+
+<p align="center">
+  <img src="Images/03.jpg" width="45%" height="600"/>
+  <img src="Images/04.jpg" width="45%" height="600"/>
 </p>
 
 ## Prerequisites
