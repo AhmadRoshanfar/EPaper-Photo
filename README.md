@@ -10,6 +10,18 @@
   <img src="Images/04.jpg" width="45%" height="600"/>
 </p>
 
+## ☕ Support
+
+<div align="center">
+  <a href="https://buymeacoffee.com/brightbytes.dev" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/default-orange.png" 
+      alt="Buy Me A Coffee" 
+      style="display: block; width: 100%; max-width: 600px; height: auto; margin: 0 auto;"
+    />
+  </a>
+</div>
+
 ## Prerequisites
 
 - Raspberry Pi with RPi OS Lite (flash to SD card)
